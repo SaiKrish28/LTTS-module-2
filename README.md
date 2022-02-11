@@ -1,3 +1,5 @@
-#M1_ProjectONC
+#M1_ProjectOnCalendar
 
-my first repository on github
+A Project on Calendar 
+
+NOTE: I have taken reference from Geeks for Geeks website for code.
