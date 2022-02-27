@@ -2,12 +2,12 @@
 
 # Why Do We need a calendar?
         - we need  calendar to keep ourselves updated in the fast moving world.   
-        -  it reminds us any important events or special occasions
+        -  it reminds us any important events or special occasions  
         
-# How do you prepare a calendar?
-       -whether first column of a calendar begins with a Sunday or Monday
+How do you prepare a calendar?  
+ -whether first column of a calendar begins with a Sunday or Monday  
        
-# How to keep count of the days in a month
+ How to keep count of the days in a month
 
 
 ## SWOT analysis
